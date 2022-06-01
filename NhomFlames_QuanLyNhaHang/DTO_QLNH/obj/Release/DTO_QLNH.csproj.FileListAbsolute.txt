@@ -1,0 +1,5 @@
+E:\DUAN_1\NhomFlames_QuanLyNhaHang\NhomFlames_QuanLyNhaHang\DTO_QLNH\bin\Release\DTO_QLNH.dll
+E:\DUAN_1\NhomFlames_QuanLyNhaHang\NhomFlames_QuanLyNhaHang\DTO_QLNH\bin\Release\DTO_QLNH.pdb
+E:\DUAN_1\NhomFlames_QuanLyNhaHang\NhomFlames_QuanLyNhaHang\DTO_QLNH\obj\Release\DTO_QLNH.csproj.CoreCompileInputs.cache
+E:\DUAN_1\NhomFlames_QuanLyNhaHang\NhomFlames_QuanLyNhaHang\DTO_QLNH\obj\Release\DTO_QLNH.dll
+E:\DUAN_1\NhomFlames_QuanLyNhaHang\NhomFlames_QuanLyNhaHang\DTO_QLNH\obj\Release\DTO_QLNH.pdb
